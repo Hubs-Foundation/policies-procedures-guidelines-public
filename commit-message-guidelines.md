@@ -6,7 +6,7 @@
 
 * Separate the title/subject of the commit message from the body of the commit message with a blank line.
 * Try to keep the title/subject descriptive and concise.
-* Capitalize the title/subject line, use the imperative mood, and don't end the line with a period.
+* Capitalize the title/subject line, make sure it completes the sentence "if applied, this commit...", and don't end the line with a period.
 
 ## Body
 
