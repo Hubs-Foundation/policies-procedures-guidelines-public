@@ -5,6 +5,19 @@
 * Big features/changes need to be approved by a team lead and ideally should be made as a proposal before a PR is started.  See the proposal guidelines.
 * Major refactoring of existing systems to use different technologies/frameworks must be made as a proposal before a PR is started.  See the proposal guidelines.
 
+## Revision of PRs
+
+* Commits may be amended and force-pushed only if
+  * the intended functionality of the commit is unchanged, and
+  * there are no outstanding comments/conversations on the file(s) involved that are not clearly resolved by the changes
+* Otherwise, another commit should be added to the PR
+
+## Closing PRs: Merging, Squashing and Rebasing
+
+* Merge conflicts must be resolved before the commit is closed
+* Merge commits are always acceptable
+* Squash merge may be appropriate if a single commit would be an acceptable unit to revert.
+* A PR may not be closed by Rebasing if that would require a merge conflict to be resolved
 
 ## No knowledgeable reviewer
 If no knowledgeable reviewers are available for a review within a reasonable time frame PRs can still be merged via the following procedure:
