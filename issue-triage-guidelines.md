@@ -1,12 +1,15 @@
+# Issue Triage Guidelines
+_For Hubs Foundation (Volunteer) Staff_
+
 *General Principle: Issues exist to help us, not for the sake of process.*
 
 ## Linking
 
-The description or title of a Pull Request that is expected to completely deal with an Issue should include "fixes" followed by the Issue number.
-For example, "Fixes #42".  The Issue will be automatically closed when the PR is merged.
-A Pull Request that partially addresses an Issue or might help with an Issue, should include the Issue number (but not after "fixes").
+The description or title of a Pull Request that is expected to completely deal with an Issue should be edited to include "fixes" followed by the Issue number.
+For example, "Fixes #42".  The Issue will then be automatically closed when the PR is merged.
+A Pull Request that partially addresses an Issue or might help with an Issue, should be edited to include the Issue number (but not after "fixes").
 For example, "Should help with #69".
-If a Pull Request is created, but there is no existing Issue, no Issue should be created, unless that adds value.
+If a Pull Request is created, but there is no existing Issue and the PR is one of several approaches to solving the Issue, ask the PR author to create an Issue documenting the problem.
 
 When an Issue has been completely dealt with, it should be closed with an explanatory message.
 The message should include the Pull Request number, if it was fixed by a PR.
@@ -14,7 +17,9 @@ The message should include the Pull Request number, if it was fixed by a PR.
 
 ## Merging
 
-Issues should be broadened, narrowed, or merged as appropriate.
+If an Issue addresses one symptom of an underlying problem, the Issue should be broadened to cover the underlying problem.
+If an Issue covers several unrelated problems, it should be split or narrowed to one problem.
+If an Issue is another aspect of an existing problem, the less-complete Issue should be closed in favor of the better-described Issue.
 Include text such as "closed in favor of Issue #101".
 
 
@@ -42,5 +47,5 @@ Some Issues can be triaged as Will Not Fix, Working As Intended or Could Not Rep
 * Vagueness should prompt a request for clarification.
 Continued vagueness requires a judgement call.
 If there does appear to be some meat to the Issue, it should remain open, even if it's not clear how to reproduce it, or what can be done.
-Otherwise it should be closed.
+Otherwise, it should be closed.
 
