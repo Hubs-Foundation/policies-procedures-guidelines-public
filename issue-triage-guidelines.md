@@ -27,7 +27,8 @@ Include text such as "closed in favor of Issue #101".
 
 * Issues administering a particular instance, or addressed in the documentation, should be closed with a pointer to the relevant documentation and/or support forum.
 
-* Issues that depend on factors outside our control (for example, the behavior of linking from one WebXR site to another) should be closed.
+* Issues that depend on factors outside our control (for example, the behavior of browsers when linking from one WebXR site to another) should be labeled as documentation-required.
+Once the documentation has been updated with a note and any workarounds, the issue should be closed.
 Typically, there's a better forum for such issues.
 
 * Issues that are obsolete, because of a changed environment, should be closed with an explanation.
