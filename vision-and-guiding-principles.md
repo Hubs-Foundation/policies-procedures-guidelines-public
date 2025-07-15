@@ -22,7 +22,7 @@ We believe that by making everything open and transparent, at all levels, we emp
 
 ### Privacy
 
-We believe that privacy is important, that you should have control of what you share, that you shouldn't be tracked without your consent, and that you should be able to feel safe and confident with the the tools and services you use and the metaverse you create.
+We believe that privacy is important, that you should have control of what you share, that you shouldn't be tracked without your consent, and that you should be able to feel safe and confident with the tools and services you use and the metaverse you create.
 
 ### Open Source
 
