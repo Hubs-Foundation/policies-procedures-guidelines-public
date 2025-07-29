@@ -71,3 +71,29 @@ _(All moderators are free to propose changes)_
 * **Off topic messages in the general channel**
   - Reply to the user that the general channel isn’t the best place for their messages and direct them to the proper channel.
   - Share the message link in the #mods channel and let the other moderators know that you’ve taken care of it.
+
+New rule suggestion for the Hubs Discord server: 
+Make posts relevant to Hubs
+Any post that does not directly address the subject of Hubs needs to be contextualized by the member posting.
+
+As implemented by the moderators, this rule should primarily apply to the original/solo post or the first post in a thread in a channel by a member. Does the post have an obvious connection (not stated) or an obvious stated connection/relevance to Hubs or the Hubs Community? 
+
+Examples of posts that are OK:  
+
+  “I am a front end engineer looking for a job, I have 3 years experience with Hubs. Here is my LinkedIn account.”  Post is relevant to Hubs and appropriate for the job-board channel.
+
+  Link to tech updates to Reticulum new article.  Post is fine. No context is made, but post is related to Hubs. Probably best for random or the dev channels.
+
+Examples of post that are not OK:
+
+  Link only to site for a cannot-be-safely-determined purpose. No obvious connection to Hubs. No added context to Hubs.
+  
+Introduction posts, generally, should NOT be held to this rule if the OP is simply an introduction; a hello from a brand new member. Leeway should be granted as folks might arrive in the Discord server *truly not knowing what Hubs is or is about* and they are not required to make introductions to be Hubs relevant. However, if the member provides a link to something in their introduction that blatantly does not appear to be Hubs-relevant, this rule DOES apply. See the Moderators delete guidance below.
+
+Reply posts, generally, should NOT be held to this rule. However, reply posts need to adhere, of course, to all of the Discord server rules. For example, if an original post asks for software recommendations to accomplish X, replies might not necessarily recommend Hubs, and that is fine.
+
+**Moderators are responsible for doing some research about a post to see if it is related to Hubs**; they should try out links in a safe manner. The onus of proof is not entirely upon the original poster.
+
+Moderators could delete posts, then directly message the member that the original poster is welcome to re-post if they add context about connection to Hubs. If the member refuses, the original post stays deleted. If a member posts repeatedly, is messaged about relevance, and does not re-post, the Moderators could take this as a reason to remove the member from the server. All this could be documented in the admin private channel.
+
+The random (and off-topic?) channel should have a wide leeway for posts not related to Hubs. Still, all Discord server rules apply. Most of the posts we’ve seen that have been deleted are blatant server violations. When in doubt, it is safest to take a post out of public view while it is being discussed with other Mods.
