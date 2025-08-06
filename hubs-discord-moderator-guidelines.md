@@ -88,9 +88,3 @@ _(All moderators are free to propose changes)_
 * **Off topic messages in the general channel**
   - Reply to the user that the general channel isn’t the best place for their messages and direct them to the proper channel.
   - Share the message link in the #mods channel and let the other moderators know that you’ve taken care of it.
-
-
-
-Moderators could delete posts, then directly message the member that the original poster is welcome to re-post if they add context about connection to Hubs. If the member refuses, the original post stays deleted. If a member posts repeatedly, is messaged about relevance, and does not re-post, the Moderators could take this as a reason to remove the member from the server. All this could be documented in the admin private channel.
-
-The random (and off-topic?) channel should have a wide leeway for posts not related to Hubs. Still, all Discord server rules apply. Most of the posts we’ve seen that have been deleted are blatant server violations. When in doubt, it is safest to take a post out of public view while it is being discussed with other Mods.
