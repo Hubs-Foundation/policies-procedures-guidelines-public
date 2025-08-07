@@ -21,7 +21,7 @@ _(All moderators are free to propose changes)_
     Link to post about trends in AI-assisted 3D object creation.
     Post has no obvious nor stated connection (no context) to Hubs. Post can be removed.
 
-    Link only to site for a cannot-be-safely-determined purpose. No obvious connection to Hubs. No added context to Hubs. Post can be removed.
+    Link only to site for a cannot-be-safely-determined purpose. No obvious connection to Hubs. No added context to Hubs. Post can be removed.<p>
 ***NSFW stuff**
   - Check whether the user has made any legitimate posts
   - Ban the user, select other and type in NSFW for the reason, and select the correct time frame for deleting their posts (they usually only have NSFW posts so you can probably select the past 7 days as the timeline to make sure you get them all)
