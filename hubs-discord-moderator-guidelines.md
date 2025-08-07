@@ -14,16 +14,16 @@ _(All moderators are free to propose changes)_
 
     “I am a front end engineer looking for a job, I have 3 years experience with Hubs. Here is my LinkedIn account.”  Post has a stated relevance to Hubs relevant. It is appropriate for the job-board channel.
 
-    Link to tech updates to Reticulum new article.  
+    Link to article covering tech updates to Reticulum.  
     Post could be improved with a stated connection but nonetheless, the post has an obvious connection to Hubs that is apparent to experienced Hubs community members. It is best for random or the dev channels. 
 
-    - Examples of post that are not OK:
+    - Examples of posts that are not OK:<p>
     Post contains only a link about trends in AI-assisted 3D object creation.
     Post has no obvious nor stated connection (no context) to Hubs. Post can be removed. Optional DM to member.
 
     Link only to site for a cannot-be-safely-determined purpose. 
     No obvious connection to Hubs. No added context to Hubs. Post can be removed. Optional DM to member.<p>
-***NSFW stuff**
+* **NSFW stuff**
   - Check whether the user has made any legitimate posts
   - Ban the user, select other and type in NSFW for the reason, and select the correct time frame for deleting their posts (they usually only have NSFW posts so you can probably select the past 7 days as the timeline to make sure you get them all)
   - Post in the #mods channel that you’ve banned a NSFW user (include the user’s name).
