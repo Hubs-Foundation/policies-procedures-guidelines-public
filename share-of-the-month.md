@@ -51,7 +51,7 @@ _For Hubs Foundation (Volunteer) Staff_
 @everyone
 Hello community!  The above are the posts from the https://discord.com/channels/498741086295031808/1063489773072830609 channel that are up for winning the <month> Share of the Month.  Please vote for the post you would like to see win! :grin:
 
-Share of the Month rules: https://docs.google.com/document/d/1xdD_M4xnQsLJBRJsoE4pwSpyaInBwuThL5dJ8OUSWxs/edit?usp=sharing
+Share of the Month rules: https://github.com/Hubs-Foundation/policies-procedures-guidelines-public/blob/main/share-of-the-month.md
 ```
 
 ### Announcement Template:
