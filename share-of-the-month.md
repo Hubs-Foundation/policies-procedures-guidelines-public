@@ -4,6 +4,7 @@ _For Hubs Foundation (Volunteer) Staff_
 **Choose the Share of the Month:**
 * First narrow it down to the top 3 #show-and-tell-🎉 posts that had the most interactions (emoji reactions, comments, etc.) for that month.
 * The top three are then voted on and the one with the most votes wins the Share of the Month.
+    * Post the three voting templates one after another in the #general channel for the community to review the shares that are in contention and vote for the winner.
 
 **Release the Share of the Month:**
 * If the Share of the Month post wasn't marked with the promotable tag, contact the author and ask if it can be shared to social media (not applicable until the Hubs Foundation sets up social media).
