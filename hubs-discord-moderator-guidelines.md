@@ -71,3 +71,15 @@ _(All moderators are free to propose changes)_
 * **Off topic messages in the general channel**
   - Reply to the user that the general channel isn’t the best place for their messages and direct them to the proper channel.
   - Share the message link in the #mods channel and let the other moderators know that you’ve taken care of it.
+
+## Meetup channel Hubs room.
+
+If someone misbehaves in the meetup channel's Hubs room or sends inappropriate messages in the chat to the meetup channel via the Hubs Discord bot, i.e. they violate our community rules, take the following action:
+
+1. Join the meetup channel's Hubs room (if needed).
+2. Find the problem user and kick them from the Hubs room (you can kick them by opening the people menu, clicking on their name, and then selecting kick).
+3. Prevent the problem user from viewing the meetup channel on Discord via one of the following methods (depending on the severity of the offense):
+    1. Assign them the "Meetup Room Timeout" discord role for X days (note: you will manually have to remove the role when the time is up).
+    2. Kick them from the server.
+    3. Ban them from the server.
+4. Message the moderator channel about the incident.
