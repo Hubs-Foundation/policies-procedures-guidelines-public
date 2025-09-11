@@ -74,11 +74,11 @@ _(All moderators are free to propose changes)_
 
 ## Meetup channel Hubs room.
 
-If someone misbehaves in the meetup channel's Hubs room or sends inappropriate messages in the chat to the meetup channel, i.e. they violate our community rules, take the following action:
+If someone misbehaves in the meetup channel's Hubs room or sends inappropriate messages in the chat to the meetup channel via the Hubs Discord bot, i.e. they violate our community rules, take the following action:
 
-1. Join the meetup room (if needed).
-2. Find the problem user and kick them (you can kick them by opening the people menu, clicking on their name, and then selecting kick).
-3. Prevent the problem user from viewing the meetup channel via one of the following methods (depending on the severity of the offense):
+1. Join the meetup channel's Hubs room (if needed).
+2. Find the problem user and kick them from the Hubs room (you can kick them by opening the people menu, clicking on their name, and then selecting kick).
+3. Prevent the problem user from viewing the meetup channel on Discord via one of the following methods (depending on the severity of the offense):
     1. Assign them the "Meetup Room Timeout" discord role for X days (note: you will manually have to remove the role when the time is up).
     2. Kick them from the server.
     3. Ban them from the server.
