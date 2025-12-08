@@ -21,3 +21,7 @@ In no event will the Hubs Foundation claim sole right/ownership/copyright/etc. o
 
 2. Full license to the Hubs Foundation
 Creation of or modification to assets that are designated to fall into this special exception, regardless of whether the assets have a license for use or not, are licensed to the Hubs Foundation with a non-exclusive, worldwide, royalty-free, irrevocable license that allows the Hubs Foundation to deal in the assets without restriction, including but not limited to using, copying, modifying, merging, publishing, distributing, sublicensing, and/or selling copies of the assets.  Any and all warranty and/or liability for the creation of or modification to the assets is disclaimed by the contributor to the fullest extent possible.
+
+## License obligations by the Hubs Foundation that apply to unlicensed assets and assets that fall under Special Exception #2
+
+The Hubs Foundation agrees to only (sub)license these assets, their modifications, or anything based on or derived from them, under the terms of one or more of the licenses the Free Software Foundation classifies as Free Software Licenses.
