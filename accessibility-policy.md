@@ -17,6 +17,117 @@ It is good practice for Hubs Foundation content creators to ask if users with vi
 * **Express the same information in two different communication methods.** Provide alternative text (alt text) for all images. Do not rely on color alone to relay meaning. If sound is meant to relay information (for example in a how-to video), include a transcript or a visual indicator.
 * **Give the user control.** If an element like sound or speed *can* be controlled by the user, let it be controlled by the user, instead of determined for them. If an experience could cause dizziness, provide an advance warning.
 
+## **Technical Writing Style Guide**
+
+Hubs Foundation strives to provide both clarity and accessibility with our writing style. Given that Hubs is a technical product, sometimes those goals conflict; things have to be written in a very detailed way. This section explains the conventions we follow when it comes to this type of technical written expression.
+
+### Action Verbs
+Generally, instruction statements should start with an action verb that have an implied but not stated “you” in front of it.
+
+Example:
+Go to [Visual Studio Code](https://code.visualstudio.com/).
+
+It is implied that *you* go to the website. Because the user has to go to the website where they will further complete a download action, “Go” is the preferred action verb, instead of “Select” or “Click”.
+
+
+#### Examples of Action Verbs
+
+Microsoft has [great technical writing suggestions](https://learn.microsoft.com/en-us/style-guide/procedures-instructions/describing-interactions-with-ui) when it comes to interacting with a user interface (UI).
+
+- Open
+- Close
+- Leave
+- Go to
+- Select
+- Pick
+- Select and hold or Right click
+- Clear
+- Choose
+- Switch
+- Enter
+- Move
+- Save
+- Zoom or Zoom in or Zoom out
+
+Possibly OK but less preferred: Navigate, Activate, Explore, Access
+
+Restate the action when it could be confusing.
+
+Avoid using “Click”. Note: it is not required to include all possible expressions of the same interaction on different devices. Generally, Mac users know how to interpret “right-click” and trackpad users know how to implement a “double-click” on their devices. Microsoft advises that terms focus on what the user must do with the UI, not focusing on the device doing the action.
+
+Avoid using “Scroll”, but the idea is that “scroll” should be used when it is proper *in context*. Other phrases could be “move through” or “move the wheel button”.
+
+
+### Bolding
+
+Because bolding changes the shape of letters, it can make some words harder to read. However, there are good uses for bolding. Also, some screen readers disregard bolding all together; that is, there is no auditory difference between a bolded and non-bolded word. As such, it would not relay any extra information in a text-to-speech situation; it is of no help and it is of no harm. We conclude that if bolding is used judiciously, it seems to add more than it possibly subtracts.
+
+Here are two good example sites where bolding is used to good effect.
+
+First, the [Design for Readability, Harvard University](https://accessibility.huit.harvard.edu/design-readability) site. Notice that the bolded sections start with an action verb and brief text.
+
+![Capture of Design for readability webpage. Bulleted list of items has the first sentence bolded, starting with an action verb. Example text: Use visual and semantic space.](img/images/image1.png)
+
+Second, the [Formatting text in instructions, Microsoft](https://learn.microsoft.com/en-us/style-guide/procedures-instructions/formatting-text-in-instructions) site. Notice that in-sentence capitalization and bolding is meant to relay when something is an interaction with the UI. 
+
+![Capture of Microsoft, Formatting text in instructions page. Examples show bolding within instructions. Example bolding of the words save and as in the phrase select save as.](img/images/image2.png)
+
+### Italics
+
+Italics can be used “sparingly for emphasis” or if the type of communication dictates it.
+
+Example:
+
+We investigated [Brevo](https://www.brevo.com/) (formerly Sendinblue) but it does not offer all of the SMTP settings we need *at the free level*. If you want to pay more, Brevo might work.
+
+### List numbering
+
+Numbering on one “page” of instructions should continue numerically through the entire set of instructions displayed on that same page. The Beginner’s Guide is a current example. The idea is to make it easy to refer to a particular step. For example, directing someone to "The Beginner's Guide, Step 14, g" is more identifiable and less confusing than writing "The Beginner's Guide, Section 3, Step 3, Step 7".
+
+Example where the numbering continues through sections, if all of the sections are part of one set of instructions:
+
+#### Section 1
+1.
+2.
+3.
+#### Section 2
+4.
+5.
+6.
+
+### Menus
+
+
+Page menus or right side menus aid navigation and the organized feel of a set of instructions. Navigation menus should be made if possible.
+
+
+### Capitalization
+
+
+When referring to other places within Hubs docs, use capitalization (e.g. Part 1, Step 4).
+
+
+### Links
+
+
+When including hyperlinks in writing, avoid “Click here” or “here” links. Instead put an active link inside of the description of the link. You can specify *exactly where* the link leads. 
+
+Examples:
+
+Go to the [GitHub Hubs Foundation hubs-cloud repository](https://github.com/Hubs-Foundation/hubs-cloud).
+
+
+[Regenerating SSL Certificates](https://docs.hubsfoundation.org/regenerating-ssl-certificates.html) explains how to fix the problem of a security warning for your Hubs instance.
+
+Screen readers contain the ability for users to navigate or tab through to only links on the page. It is confusing if the displayed link text is "here".
+
+![Capture of NVDA link elements notification. All of the links and their display text are shown as one list.](img/images/image3.png)
+
+
+### Discouraged language choices
+
+For various reasons, there are some words that we would rather not use. Generally, we want to avoid language that assumes everyone can visually see, hear, move, or think equally well or not. Avoiding sayings and cliches should help us avoid using language that has violent or dehumanizing tones.
+
 ## **No One Walks Alone**
 
 We encourage everyone to address accessibility within Hubs Foundation-produced content, but we also recognize that a “[first attempt at making anything accessible will be awful](https://accessability.substack.com/p/your-first-attempt-at-making-anything)”. Therefore, we’ve structured our efforts so that no single community member must create accessible content alone. A community member will come alongside a content creator to review, suggest, and perhaps directly modify the content to make it more accessible. No one walks alone in this effort; we are a community.
