@@ -66,11 +66,11 @@ Here are two good example sites where bolding is used to good effect.
 
 First, the [Design for Readability, Harvard University](https://accessibility.huit.harvard.edu/design-readability) site. Notice that the bolded sections start with an action verb and brief text.
 
-![Capture of Design for readability webpage. Bulleted list of items has the first sentence bolded, starting with an action verb. Example text: Use visual and semantic space.](images/image1.png)
+![Capture of Design for readability webpage. Bulleted list of items has the first sentence bolded, starting with an action verb. Example text: Use visual and semantic space.](/images/image1.png)
 
 Second, the [Formatting text in instructions, Microsoft](https://learn.microsoft.com/en-us/style-guide/procedures-instructions/formatting-text-in-instructions) site. Notice that in-sentence capitalization and bolding is meant to relay when something is an interaction with the UI. 
 
-![Capture of Microsoft, Formatting text in instructions page. Examples show bolding within instructions. Example bolding of the words save and as in the phrase select save as.](images/image2.png)
+![Capture of Microsoft, Formatting text in instructions page. Examples show bolding within instructions. Example bolding of the words save and as in the phrase select save as.](/images/image2.png)
 
 ### Italics
 
@@ -121,7 +121,7 @@ Go to the [GitHub Hubs Foundation hubs-cloud repository](https://github.com/Hubs
 
 Screen readers contain the ability for users to navigate or tab through to only links on the page. It is confusing if the displayed link text is "here".
 
-![Capture of NVDA link elements notification. All of the links and their display text are shown as one list.](images/image3.png)
+![Capture of NVDA link elements notification. All of the links and their display text are shown as one list.](/images/image3.png)
 
 
 ### Discouraged language choices
