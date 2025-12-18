@@ -2,11 +2,15 @@
 
 [Atomic commits](https://www.aleksandrhovhannisyan.com/blog/atomic-git-commits/) are preferred.
 
-## Subject/Title
+## Title
 
-* Separate the title/subject of the commit message from the body of the commit message with a blank line.
-* Try to keep the title/subject descriptive and concise.
-* Capitalize the title/subject line, make sure it completes the sentence "if applied, this commit...", and don't end the line with a period.
+* Separate the title of the commit message from the body of the commit message with a blank line.
+* Try to keep the title descriptive and concise.
+* Title should specify what the commit does. 
+* Capitalize the title line and don't end the line with a period.
+* Make sure the title completes either of these sentences:
+    * "If applied, this commit..."
+    * "If applied, this commit will..."
 
 ## Body
 
