@@ -171,6 +171,7 @@ After the sprint is finished, the `(SPRINT)` prefix is removed from the short te
 ---
 
 ## Yearly maintenance
+_For Hubs Foundation (Volunteer) Staff_
 
 Archive a copy of the roadmaps at the end of each year.  Put a copy of each roadmap in an archive folder and name it with the format "X Team Roadmap YYYY" (use "ARCHIVED: X Team Roadmap YYYY" for the title text at the top of the document), then clear the items from the archive of released section in the main copy of each roadmap.
 
@@ -179,6 +180,7 @@ Note: to copy the roadmap you need to open the Google Doc, go to **File > Make a
 ---
 
 ## Updating GitHub issues/PRs
+_For Hubs Foundation (Volunteer) Staff_
 
 ### Initial status
 
