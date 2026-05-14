@@ -1,4 +1,4 @@
-# Supported Blender Versions Policy
+# Blender Add-on Supported Blender Versions Policy
 _For Hubs Foundation (Volunteer) Staff_
 
 ## Supported versions
